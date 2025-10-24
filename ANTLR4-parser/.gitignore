@@ -1,0 +1,11 @@
+# generated common files
+workspace/*/*.interp
+workspace/*/*.tokens
+
+# generated files for java as targat language from java compilation
+workspace/*/*.java
+
+# generated files for python as targat language from java compilation
+workspace/*/*Lexer.py
+workspace/*/*Listener.py
+workspace/*/*Parser.py
